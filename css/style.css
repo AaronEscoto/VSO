@@ -879,15 +879,15 @@ footer {
 }
 
 footer p {
-	color: #f8f8f8;
+	color: #040079;
 }
 
 footer a {
-	color: #fefefe;
+	color: #040079;
 }
 
 footer a:hover {
-	color: #fff;
+	color:#040079;
 }
 
 /* ===========================
