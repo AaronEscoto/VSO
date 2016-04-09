@@ -5122,10 +5122,10 @@ button.close {
 }
 .modal-dialog {
   position: relative;
-  width: auto;
   margin: 10px;
 }
 .modal-content {
+ 
   position: relative;
   background-color: #fff;
   background-clip: padding-box;
@@ -5166,6 +5166,7 @@ button.close {
   line-height: 1.428571429;
 }
 .modal-body {
+  width: 1000px;
   position: relative;
   padding: 20px;
 }
@@ -5187,7 +5188,7 @@ button.close {
 }
 @media (min-width: 768px) {
   .modal-dialog {
-    width: 600px;
+    width: 1000px;
     margin: 30px auto;
   }
   .modal-content {
